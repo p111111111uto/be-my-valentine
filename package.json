@@ -1,7 +1,7 @@
 {
   "name": "my-react-app",
-  "homepage": "https://p111111111uto.github.io/be-my-valentine/"
-  "private": true,
+  "homepage": "https://p111111111uto.github.io/be-my-valentine/",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
